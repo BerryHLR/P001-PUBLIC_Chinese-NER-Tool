@@ -26,7 +26,7 @@ _HKUST Library - DS CoLab Project - P001_
 
 3. **Change to the appropriate folder location.**
    ```
-   cd P001-PUBLIC_Chinese-NER-Tool
+   cd P001-PUBLIC_Chinese-NER-Tool-main
    ```
    
 4. **Install the required dependencies using the following command.**
